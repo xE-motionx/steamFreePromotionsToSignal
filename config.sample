@@ -1,0 +1,9 @@
+{
+  "localStorageFile": "path/to/file.json",
+  "steamShopUrl": "SteamShopUrl",
+  "signalCliPath": "path/to/signalCliBinary",
+  "signalAccount": "Phone number to send from",
+  "signalTarget": "Group or Phone number to send to",
+  "signalDebugTarget": "Group of Phone number to send debug messages to",
+  "debug": "False"
+}
